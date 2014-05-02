@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-blockgrid",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Evan Hammond <evan.hammond@gmail.com>",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "assemble-less": "~0.7.0"
+  }
+}
